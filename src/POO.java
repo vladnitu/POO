@@ -4,3 +4,15 @@ public class POO {
     }
 }
 
+class PropertiesExample {
+    String myString;
+
+    String getMyString() {
+        return myString;
+    }
+
+    void setMyString(String s) {
+        myString = s;
+    }
+}
+
